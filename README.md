@@ -1,7 +1,7 @@
 # swift-remove-markdown
 
 [![Swift Version](https://img.shields.io/badge/Swift-5.5+-orange.svg)](https://swift.org)
-[![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20macOS%20%7C%20tvOS%20%7C%20watchOS-lightgrey.svg)](https://github.com/Yvent/swift-remove-markdown)
+[![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20macOS%20%7C%20tvOS%20%7C%20watchOS-lightgrey.svg)](https://github.com/yvente/swift-remove-markdown)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 > 📝 **Swift port of the popular [remove-markdown](https://github.com/zuchka/remove-markdown) package**
@@ -25,7 +25,7 @@ Add the following to your `Package.swift` file:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/Yvent/swift-remove-markdown.git", from: "1.0.0")
+    .package(url: "https://github.com/yvente/swift-remove-markdown.git", from: "1.0.0")
 ]
 ```
 
